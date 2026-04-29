@@ -4,8 +4,8 @@
   "description": "Shoe Care Studio",
   "display": "standalone",
   "orientation": "portrait",
-  "start_url": ".",
-  "scope": ".",
+  "start_url": "/SpickandSpan/",
+  "scope": "/SpickandSpan/",
   "background_color": "#f8fbff",
   "theme_color": "#2563eb",
   "icons": [
